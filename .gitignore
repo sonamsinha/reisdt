@@ -11,3 +11,4 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 reisdt-hw/.idea/
 reisdt-hw/reisdt-hw.iml
+.DS_Store
